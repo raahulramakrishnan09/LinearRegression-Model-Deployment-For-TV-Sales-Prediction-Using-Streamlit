@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from sklearn.linear_model import LinearRegression
 import joblib
 #load data
 df=pd.read_csv('/content/tvmarketing.csv')
