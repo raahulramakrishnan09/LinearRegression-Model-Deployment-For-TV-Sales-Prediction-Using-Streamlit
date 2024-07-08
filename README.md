@@ -1,4 +1,4 @@
-#TV Sales Prediction Model Deployment Using Streamlit
+# TV Sales Prediction Model Deployment Using Streamlit
 This repository demonstrates how to deploy a Linear Regression algorithm model using Streamlit for predicting sales based on advertising budget.
 ## What is Streamlit?
 
