@@ -33,8 +33,8 @@ Creates or overwrites code.py with the subsequent commands:
 %%writefile code.py
 ```
 
-## Install localtunnel (Node Package):
-This line uses npm (Node Package Manager) to install localtunnel, which is used for exposing local servers to the internet:
+## Install localtunnel:
+This line uses npm to install localtunnel, which is used for exposing local servers to the internet:
 ```python
 !npm install localtunnel
 ```
